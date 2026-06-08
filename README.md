@@ -114,5 +114,8 @@ Fitness tracking application with workout plans.
 </p>
 
 <p align="center">
-  <i>"Building intelligent systems that perceive and navigate the real world." 🚀</i>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Programming Quote" />
+</div>
 </p>
+
