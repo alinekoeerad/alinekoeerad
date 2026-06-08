@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ali Nekoee Rad 👋</h1>
+<h1 align="center">Hi there, I'm Ali Nekouie Rad 👋</h1>
 
 <h3 align="center">Exploring the Computer World | Robotics Enthusiast</h3>
 
