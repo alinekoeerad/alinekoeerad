@@ -104,6 +104,15 @@ Fitness tracking application with workout plans.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alinekoeerad&theme=radium&hide_border=true" alt="Ali's GitHub Streak" />
 </div>
 
+<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alinekoeerad/alinekoeerad/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alinekoeerad/alinekoeerad/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alinekoeerad/alinekoeerad/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ---
 
 ### 📫 Connect With Me
@@ -113,9 +122,8 @@ Fitness tracking application with workout plans.
   <a href="https://github.com/alinekoeerad"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<p align="center">
+<br>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radium" alt="Programming Quote" />
 </div>
-</p>
-
