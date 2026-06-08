@@ -97,7 +97,7 @@ Fitness tracking application with workout plans.
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alinekoeerad&theme=radical" alt="Ali's GitHub Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alinekoeerad&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Ali's GitHub Stats" />
 </div>
 <br>
 <div align="center">
