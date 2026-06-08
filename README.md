@@ -2,12 +2,12 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="80" alt="Animated Robot">
 </div>
 
-<h1 align="center">Hi there, I'm Ali Nekoee Rad 👋</h1>
+<h1 align="center">Hi there, I'm Ali Nekouie Rad 👋</h1>
 
 <h3 align="center">Computer Engineering Graduate | Robotics & Computer Vision Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
-  📍 Baku, Azerbaijan | 🎓 B.Sc. Computer Engineering - Zanjan University
+  📍 Tehran, Iran | 🎓 B.Sc. Computer Engineering - Zanjan University
 </p>
 
 <p align="center">
